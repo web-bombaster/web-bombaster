@@ -8,6 +8,7 @@
 
 ## Посмотреть работы и код:
 
+- Интенсив Methed - Сервис поздравлений с Днём Рождения: работа на [GitHub Pages](https://web-bombaster.github.io/Methed-Happy-Birthday/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Methed-Happy-Birthday)
 - Марафон «Заверстаю» HTML Academy: работа на [GitHub Pages](https://web-bombaster.github.io/zaverstayu/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/zaverstayu)
 
 ## Мои ключевые навыки:
