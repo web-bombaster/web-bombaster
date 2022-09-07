@@ -11,6 +11,7 @@
 ## Посмотреть работы и код:
 
 - Верстка макета «Little Fairies» - школа детского балета: работа на [GitHub Pages](https://web-bombaster.github.io/template-balet/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-balet)
+- Верстка макета «Юридические услуги» - школа детского балета: работа на [GitHub Pages](https://web-bombaster.github.io/legal-services/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/legal-services)
 - Верстка макета «Производство и продажа воздуховодов»: работа на [GitHub Pages](https://web-bombaster.github.io/template-vozduhovody/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-vozduhovody)
 
 ## Обучение, интенсивы, марафоны, результаты:
