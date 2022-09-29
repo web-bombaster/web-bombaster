@@ -24,6 +24,7 @@
 - Опыт посадки верстки на систему управления MODX Revo. При необходимости смогу освоить посадку верстки и на другие CMS.
 - Имею опыт редактирования контента в разных CMS: MODX Revo, Wordpress, Joomla, Drupal, NetCat;
 - Использую GitHub пока довольно поверхностно. Для работы в команде обязательно освою его на хорошем уровне;
+
 ## Посмотреть работы и код:
 
 - Верстка макета «Little Fairies» - школа детского балета: работа на [GitHub Pages](https://web-bombaster.github.io/template-balet/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-balet)
@@ -31,7 +32,7 @@
 - Верстка макета «Юридические услуги» - школа детского балета: работа на [GitHub Pages](https://web-bombaster.github.io/legal-services/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/legal-services)
 - Верстка макета «Производство и продажа воздуховодов»: работа на [GitHub Pages](https://web-bombaster.github.io/template-vozduhovody/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-vozduhovody)
 
-## Обучение, интенсивы, марафоны, результаты:
+## Обучение, интенсивы, марафоны:
 
 - Methed Интенсив - Лендинг с товарами Apple: работа на [GitHub Pages](https://web-bombaster.github.io/Methed-ProApple/dist) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Methed-ProApple.git)
 - Учебный макет "Туры на воздушном шаре": работа на [GitHub Pages](https://web-bombaster.github.io/Balloon-Tours/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Balloon-Tours)
