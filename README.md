@@ -27,7 +27,7 @@
 
 ## Посмотреть работы и код:
 
-- Верстка сложной шапки сайта: работа на [GitHub Pages](https://web-bombaster.github.io/mosokna-new-header/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/mosokna-new-header)
+- Верстка сложной шапки сайта (сложные меню и бургер меню): работа на [GitHub Pages](https://web-bombaster.github.io/mosokna-new-header/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/mosokna-new-header)
 - Верстка макета «OknaP» - пластиковые окна в Москве от производителя: работа на [GitHub Pages](https://web-bombaster.github.io/oknaP/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/oknaP)
 - Верстка макета «Мосокна»: работа на [GitHub Pages](https://web-bombaster.github.io/verstkaMosokna/dist/verstka.html) - репозиторий с [исходным кодом](https://github.com/web-bombaster/verstkaMosokna)
 - Верстка макета Мини-отель «Вилла Лана»: работа на [GitHub Pages](https://web-bombaster.github.io/villa-lana.ru/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/villa-lana.ru)
