@@ -28,7 +28,7 @@
 ## Посмотреть работы и код:
 
 - Верстка макета «OknaP» - пластиковые окна в Москве от производителя: работа на [GitHub Pages](https://web-bombaster.github.io/oknaP/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/oknaP)
-- Верстка макета Мини-отель «Вилла Лана»: работа на [GitHub Pages]([https://web-bombaster.github.io/villa-lana.ru/dist/](https://web-bombaster.github.io/villa-lana.ru/dist/)) - репозиторий с [исходным кодом](https://github.com/web-bombaster/villa-lana.ru)
+- Верстка макета Мини-отель «Вилла Лана»: работа на [GitHub Pages](https://web-bombaster.github.io/villa-lana.ru/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/villa-lana.ru)
 - 
 - Верстка макета «Little Fairies» - школа детского балета: работа на [GitHub Pages](https://web-bombaster.github.io/template-balet/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-balet)
 - Верстка макета «Индивидуальные экскурсии на автомобиле по Калининграду и области»: работа на [GitHub Pages](https://web-bombaster.github.io/excursions/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/excursions)
