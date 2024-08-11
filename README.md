@@ -13,11 +13,11 @@
 - Верстка сложной шапки сайта (сложные меню и бургер меню): работа на [GitHub Pages](https://web-bombaster.github.io/mosokna-new-header/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/mosokna-new-header)
 - Верстка макета «OknaP» - пластиковые окна в Москве от производителя с версткой калькулятора: работа на [GitHub Pages](https://web-bombaster.github.io/oknaP/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/oknaP)
 - Верстка макета «Мосокна»: работа на [GitHub Pages](https://web-bombaster.github.io/verstkaMosokna/dist/verstka.html) - репозиторий с [исходным кодом](https://github.com/web-bombaster/verstkaMosokna)
-- Верстка макета Мини-отель «Вилла Лана»: работа на [GitHub Pages](https://web-bombaster.github.io/villa-lana.ru/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/villa-lana.ru)
 - Верстка макета Бурение скважин с мини квизом: работа на [GitHub Pages](https://web-bombaster.github.io/spb-skvazhina.ru/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/spb-skvazhina.ru)
 - Верстка макета интернет-магазина «Мир климата»: работа на [GitHub Pages](https://web-bombaster.github.io/verstkaMirKlimata/dist/verstka.html) - репозиторий с [исходным кодом](https://github.com/web-bombaster/verstkaMirKlimata)
 - Верстка макета «MailChip – универсальная и быстрая рассылка писем» с калькулятором тарифов: работа на [GitHub Pages](https://web-bombaster.github.io/verstkaMailchip/dist/verstka.html) - репозиторий с [исходным кодом](https://github.com/web-bombaster/verstkaMailchip)
 - Верстка макета офисная мебель «Славянка»: работа на [GitHub Pages](https://web-bombaster.github.io/verstkaSlavameb/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/verstkaSlavameb)
+- Верстка макета Мини-отель «Вилла Лана»: работа на [GitHub Pages](https://web-bombaster.github.io/villa-lana.ru/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/villa-lana.ru)
 - Верстка макета «Little Fairies» - школа детского балета: работа на [GitHub Pages](https://web-bombaster.github.io/template-balet/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-balet)
 - Верстка макета «Производство и продажа воздуховодов»: работа на [GitHub Pages](https://web-bombaster.github.io/template-vozduhovody/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/template-vozduhovody)
 
