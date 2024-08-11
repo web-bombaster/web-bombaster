@@ -38,13 +38,6 @@
 - Имею опыт редактирования контента в разных CMS: MODX Revo, Wordpress, Joomla, Drupal, NetCat;
 - Использую GitHub пока довольно поверхностно. Для работы в команде обязательно освою его на хорошем уровне;
 
-## Обучение, интенсивы, марафоны:
-
-- Methed Интенсив - Лендинг с товарами Apple: работа на [GitHub Pages](https://web-bombaster.github.io/Methed-ProApple/dist) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Methed-ProApple.git)
-- Учебный макет "Туры на воздушном шаре": работа на [GitHub Pages](https://web-bombaster.github.io/Balloon-Tours/dist/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Balloon-Tours)
-- Интенсив по верстке "Сайт-портфолио" Glo-Academy: работа на [GitHub Pages](https://web-bombaster.github.io/Glo-Academy-Developer-Portfolio/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Glo-Academy-Developer-Portfolio)
-- Интенсив Methed - Сервис поздравлений с Днём Рождения: работа на [GitHub Pages](https://web-bombaster.github.io/Methed-Happy-Birthday/) - репозиторий с [исходным кодом](https://github.com/web-bombaster/Methed-Happy-Birthday)
-
 <!---
 web-bombaster/web-bombaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
